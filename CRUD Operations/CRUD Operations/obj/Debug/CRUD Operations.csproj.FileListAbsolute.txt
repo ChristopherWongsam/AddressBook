@@ -1,0 +1,21 @@
+\\shared\home\s-z\wongsamc\my documents\visual studio 2012\Projects\CRUD Operations\CRUD Operations\bin\Debug\CRUD Operations.exe.config
+\\shared\home\s-z\wongsamc\my documents\visual studio 2012\Projects\CRUD Operations\CRUD Operations\bin\Debug\CRUD Operations.exe
+\\shared\home\s-z\wongsamc\my documents\visual studio 2012\Projects\CRUD Operations\CRUD Operations\bin\Debug\CRUD Operations.pdb
+\\shared\home\s-z\wongsamc\my documents\visual studio 2012\Projects\CRUD Operations\CRUD Operations\obj\Debug\CRUD_Operations.Form1.resources
+\\shared\home\s-z\wongsamc\my documents\visual studio 2012\Projects\CRUD Operations\CRUD Operations\obj\Debug\CRUD_Operations.Properties.Resources.resources
+\\shared\home\s-z\wongsamc\my documents\visual studio 2012\Projects\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csproj.GenerateResource.Cache
+\\shared\home\s-z\wongsamc\my documents\visual studio 2012\Projects\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.exe
+\\shared\home\s-z\wongsamc\my documents\visual studio 2012\Projects\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.pdb
+\\shared\home\s-z\wongsamc\my documents\visual studio 2012\Projects\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.exe
+C:\Users\chris\Desktop\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.pdb
+C:\Users\chris\Desktop\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\CRUD Operations\CRUD Operations\obj\Debug\CRUD_Operations.Form1.resources
+C:\Users\chris\Desktop\CRUD Operations\CRUD Operations\obj\Debug\CRUD_Operations.Properties.Resources.resources
+C:\Users\chris\Desktop\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\CRUD Operations\CRUD Operations\bin\Debug\Database1.mdf
+C:\Users\chris\Desktop\CRUD Operations\CRUD Operations\bin\Debug\Database1_log.ldf
+C:\Users\chris\Desktop\CRUD Operations\CRUD Operations\bin\Debug\CRUD Operations.exe.config
+C:\Users\chris\Desktop\CRUD Operations\CRUD Operations\bin\Debug\CRUD Operations.exe
+C:\Users\chris\Desktop\CRUD Operations\CRUD Operations\bin\Debug\CRUD Operations.pdb
